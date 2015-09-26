@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+    
+    <head>
+        <title> Adrene McIntosh </title>
+        
+        <style>
+            
+            .papa {width: auto; height:auto; background-color:aqua;}
+            
+            #header {width: 50%; height:250px; color: black;font-size:32px;font-family:                               Pristina;position:absolute;float:left;}
+            
+            #pic {width: 40%; height: 200px; position:absolute; top:50; right:80px} 
+            
+            #label {width:20%; height:1000px;color: black; font-family:Times New Roman; font-                         size:18px; position: absolute; top:15px; float:left;}
+            
+            #info {width:80%; height:900px; color: black; font-family: Times New Roman; font-                         size: 18px; position:absolute; top: 230px; left:200px ;float: right;}
+            
+        </style>
+    </head>
+    
+    <body style="background-color: teal;">
+        
+            <div class="papa">
+        
+            <div ID="header">
+                
+                <h2>ADRENE MCINTOSH</h2>
+                Tel: (876) 386-6874
+                <br>
+                Email: adrenemcintosh@yahoo.com
+                <hr>
+                
+            </div>
+            
+            <div ID="pic" >
+                 
+                <img src="someone.jpg" style="width: 410px; height: 215px" />
+                 
+            </div>
+        
+           </div>
+    
+            <div class="papa" style=" align-items: center">
+                
+            <div ID="label" style="position: absolute; top: 248px">
+                <p> 
+                   <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+                    
+                    OBJECTIVE:
+
+                   <br><br><br><br><br><br>  
+             
+                    EDUCATION:
+                    
+                    <br><br><br><br><br><br>
+                    
+                    EXPERIENCE:
+                    
+                    <br><br><br><br><br><br>
+                    
+                    SKILLS:
+                    
+                    <br><br><br><br><br><br>
+                    
+                    HOBBIES:
+                    
+                    <br><br><br><br><br><br><br>
+                    
+                    REFERENCES:
+                    
+                    <br><br><br><br>
+                    
+                </p>
+            </div>
+            
+            <div ID="info">
+                <p>
+                <br>
+To obtain employment that will foster the development of skills that will allow me 
+to function in the work environment and to utilize current knowledge and skills to 
+benefit the organization
+                </p>
+                
+                <p style="position: relative; top: 57px;">
+    
+The University of the West Indies:
+                </p>
+                
+                <p style="padding-left:2em; position: relative; top: 60px;">
+                    Major: Information Technology
+                    <br>
+                    Minor: Digital Media Production
+                
+                </p>
+                
+                <p style="position: relative; top:80px;">
+            
+                        St. James High School:
+                </p>
+                
+                <p style="padding-left: 2em; position: relative; top: 75px;">
+                           July 5-27, 2015            
+                
+                    <ul style= "position: relative; top: 50px;">
+                        <br>
+                        <li>Administration</li>
+                        <li>Customer Service</li>
+                    </ul>
+                    
+                </p>
+                
+                <ul style= "position: relative; top: 50px;">
+                    <li>Proficient in Microsoft office, Adobe Illustrator and Adobe Photoshop</li>
+                    <li>Good oral and written communication skills</li>
+                    <li>Organizational skills</li>
+                        
+                </ul>
+                
+                <ul style= "position: relative; top: 85px;">
+                
+                    <li>Reading</li>
+                    <li>Watching movies/tv shows</li>
+                    <li>Searching pinterest</li>
+                    <li>Coding</li>
+                    <li>Listening to music</li>
+                </ul>
+                
+                <p style= "position: relative; top: 105px;">
+                
+                    
+                    D'Oyen Williams: (876) 426-2188
+                    <br>
+                    Gloria Johnson: (876) 572-2760
+                    
+                </p>
+                
+                
+            </div>
+    </div>
+    </body>
+</html>
+                
